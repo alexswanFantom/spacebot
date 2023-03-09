@@ -11,6 +11,7 @@
     "bitcoinjs-lib": "^6.1.0",
     "child_process": "^1.0.2",
     "dotenv": "^16.0.3",
+    "https-proxy-agent": "^5.0.1",
     "mvc-lib": "^1.0.5",
     "node-telegram-bot-api": "^0.61.0",
     "tor-axios": "^1.0.11"
